@@ -1,6 +1,6 @@
 # Books API Project
 
-This repository contains a books api project written in Spring Boot.
+This repository contains a book api project written in Spring Boot.
 
 ## Prerequisites
 
