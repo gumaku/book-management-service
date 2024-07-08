@@ -57,7 +57,7 @@ You can also deploy this app in a container using the provided Dockerfile.
 
 ## API Documentation
 The API documentation (Swagger/OpenAPI) is available at /swagger-ui.html when the application is running.
-
+![image](https://github.com/gumaku/book-management-service/blob/main/images/img_swagger_ui1.png)
 ## API call using Postman 
 
 postman collection is provided under project directory named AIA assignment book **AIA_assignment-book-api.postman_collection.json**
