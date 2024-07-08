@@ -69,6 +69,6 @@ The following including some example screenshots of the API call using postman:
 ### Create a book
 ![image](https://github.com/gumaku/book-management-service/blob/main/images/img_create.png)
 ### Get books
-![image](https://github.com/gumaku/book-management-service/blob/main/images/img_get.png)
+![image](https://github.com/gumaku/book-management-service/blob/main/images/img_get1.png)
 ### Delete a book
 ![image](https://github.com/gumaku/book-management-service/blob/main/images/img_delete1.png)
