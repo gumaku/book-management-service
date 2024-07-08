@@ -71,4 +71,4 @@ The following including some example screenshots of the API call using postman:
 ### Get books
 ![image](https://github.com/gumaku/book-management-service/blob/main/images/img_get.png)
 ### Delete a book
-![image](https://github.com/gumaku/book-management-service/blob/main/images/img_delete.png)
+![image](https://github.com/gumaku/book-management-service/blob/main/images/img_delete1.png)
