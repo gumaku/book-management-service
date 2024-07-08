@@ -14,7 +14,7 @@ If you are a Docker user, highly recommend you jump to [Containerized](#Containe
 Follow these steps to build the project:
 1. **Clone the repository:**
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/gumaku/book-management-service.git
    cd book-management-service
    ```
 2. **Build the project using Maven:**
