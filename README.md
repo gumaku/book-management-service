@@ -1,4 +1,4 @@
-# Books API Project
+# Book API Project
 
 This repository contains a book api project written in Spring Boot.
 
